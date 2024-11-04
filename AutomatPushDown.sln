@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatPushDown", "AutomatPushDown\AutomatPushDown.csproj", "{0FB05FF9-0A2B-4DB5-AC35-406368540886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR1Parser", "LR1Parser\LR1Parser.csproj", "{212A453D-C339-4F67-89B9-A47157C82100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lr21Incercarea2", "Lr21Incercarea2\Lr21Incercarea2.csproj", "{3D1F9C17-A962-4A4C-AFD3-C65FD5E4EDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB05FF9-0A2B-4DB5-AC35-406368540886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB05FF9-0A2B-4DB5-AC35-406368540886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB05FF9-0A2B-4DB5-AC35-406368540886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB05FF9-0A2B-4DB5-AC35-406368540886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212A453D-C339-4F67-89B9-A47157C82100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212A453D-C339-4F67-89B9-A47157C82100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212A453D-C339-4F67-89B9-A47157C82100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212A453D-C339-4F67-89B9-A47157C82100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1F9C17-A962-4A4C-AFD3-C65FD5E4EDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1F9C17-A962-4A4C-AFD3-C65FD5E4EDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1F9C17-A962-4A4C-AFD3-C65FD5E4EDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1F9C17-A962-4A4C-AFD3-C65FD5E4EDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

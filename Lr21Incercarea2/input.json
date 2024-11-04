@@ -1,0 +1,14 @@
+{
+  "Productions": [
+    {"Left": "E", "Right": "E+T"},
+    {"Left": "E", "Right": "T"},
+    {"Left": "T", "Right": "T*F"},
+    {"Left": "T", "Right": "F"},
+    {"Left": "F", "Right": "(E)"},
+    {"Left": "F", "Right": "i"},
+    {"Left": "F", "Right": "-(E)"}
+  ],
+  "NonTerminals": ["E", "T", "F"],
+  "Terminals": ["a", "+", "-", "*", "(", ")"],
+  "StartSymbol": "E"
+}
